@@ -1,6 +1,10 @@
 {
   "name": "swe432-heroku-react",
   "version": "0.1.0",
+  "engines": {
+    "node": "^10.10",
+    "npm": "6.x"
+    },
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.9.9",
@@ -32,8 +36,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "engines": {
-    "node": "^10.10"
   }
 }
